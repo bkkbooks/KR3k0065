@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3k0065/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3k0065_WYG_000-1a, image: WYG1034/WYG1034-0215a.png}
+body:
+  text: 宋稗𩔖鈔提要臣等謹案宋稗𩔖鈔三十六卷國朝潘永因編永因有讀史津逮已著録是書以宋人詩話説部分𩔖纂輯凡五十九門末附搜遺一集以補諸門之所未備亦江少虞事實𩔖􅁐之流惟皆不著所出是其一失葢明人編輯舊文往往如是永因尚沿其舊習也又如異數門中盧延讓紅綾餅饀事則上及唐末符命門中庚申帝事武備門中泰定間鄧弼事則下及元時謟媚門中徐學詩劾嚴嵩嘉定人有與同姓名者遂改為學謨事併䦨入明代皆失㫁限至武備門中載狄青不祖狄仁傑不去黥文之𩔖分𨽻亦多未允然宋代襍記之書最為汗漫是編掇集英華網羅繁富且分門别𩔖較易檢尋存之亦可資考核也乾隆五十年正月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:f90f37f5ff8a5c39460be230a38d4589b67e0d079208312d91cd06faf441f493
+metadata:
+  title: 宋稗類鈔
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:36:37.025411'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3k0065/KR3k0065_000.txt
+hash: sha256:07c534ea6b99151c086ccf1536d0be62431a89617449f7fe9605fb68cac89737
